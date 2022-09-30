@@ -1,6 +1,4 @@
-# forkify Project
-
-Recipe application with custom recipe uploads.
+# Guess My Number! Game
 
 ![preview](./.github/preview.png)
 
@@ -8,9 +6,9 @@ Recipe application with custom recipe uploads.
 
 > # Description / Descrição
 
-Forkify is a recipe web app using the Forkify API to allow users to search, view, modify, bookmark and add recipes. This app uses modern JavaScript tools, such as Parcel to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5.
+A simple game of guessing the correct number. Its design is based on games from the 80s.
 
-[🔗 Click here to access / Clique aqui para acessar]()
+[🔗 Click here to access / Clique aqui para acessar](https://guess-my-number-vitorfnery.netlify.app/)
 
 ## 🛠️ Technologies / Tecnologias
 
